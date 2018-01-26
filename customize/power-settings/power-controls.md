@@ -44,6 +44,10 @@ Settings in this subgroup include settings that control the system's power and b
 <tr class="odd">
 <td><p>[LidNotificationsAreReliable](lidnotificationsarereliable.md)</p></td>
 <td><p>Use to notify the OS whether the platform guarantees that lid notifications are sent whenever the lid is opened or closed.</p></td>
+</tr>  
+<tr>
+<td><p>[IgnoreCsComplianceCheck](ignorecscompliancecheck.md)</p></td>
+<td><p>Use to disable the default OS requirement of having non-rotational media in a Modern Standby system.</p></td>
 </tr>
 </tbody>
 </table>
