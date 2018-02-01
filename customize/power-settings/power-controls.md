@@ -45,5 +45,10 @@ Settings in this subgroup include settings that control the system's power and b
 <td><p>[LidNotificationsAreReliable](lidnotificationsarereliable.md)</p></td>
 <td><p>Use to notify the OS whether the platform guarantees that lid notifications are sent whenever the lid is opened or closed.</p></td>
 </tr>
+<tr>
+<td><p>[EnableInputSuppression](power-controls-enableinputsuppression.md)</p></td>
+<td><p>Use to enable input suppression on a modern standby device with a clamshell form factor when the lid is closed, there is no external monitor connected, and the device is on DC power. 
+</p></td>
+</tr>
 </tbody>
 </table>
